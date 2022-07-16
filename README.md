@@ -1,3 +1,5 @@
+VIEW AT YOUR OWN RISK DO NOT COPY CODE
+
 ***#Files***
 
 1. HTTPServer.c - Starter code provided by Doctor Quinn
